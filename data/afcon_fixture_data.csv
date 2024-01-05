@@ -1,0 +1,53 @@
+home,away,score,year
+Ivory Coast , Guinea-Bissau,v,2023
+Nigeria , Equatorial Guinea,v,2023
+Equatorial Guinea , Guinea-Bissau,v,2023
+Ivory Coast , Nigeria,v,2023
+Equatorial Guinea , Ivory Coast,v,2023
+Guinea-Bissau , Nigeria,v,2023
+Egypt , Mozambique,v,2023
+Ghana , Cape Verde,v,2023
+Egypt , Ghana,v,2023
+Cape Verde , Mozambique,v,2023
+Mozambique , Ghana,v,2023
+Cape Verde , Egypt,v,2023
+Senegal , Gambia,v,2023
+Cameroon , Guinea,v,2023
+Senegal , Cameroon,v,2023
+Guinea , Gambia,v,2023
+Guinea , Senegal,v,2023
+Gambia , Cameroon,v,2023
+Algeria , Angola,v,2023
+Burkina Faso , Mauritania,v,2023
+Algeria , Burkina Faso,v,2023
+Mauritania , Angola,v,2023
+Angola , Burkina Faso,v,2023
+Mauritania , Algeria,v,2023
+Tunisia , Namibia,v,2023
+Mali , South Africa,v,2023
+Tunisia , Mali,v,2023
+South Africa , Namibia,v,2023
+South Africa , Tunisia,v,2023
+Namibia , Mali,v,2023
+Morocco , Tanzania,v,2023
+DR Congo , Zambia,v,2023
+Morocco , DR Congo,v,2023
+Zambia , Tanzania,v,2023
+Tanzania , DR Congo,v,2023
+Zambia , Morocco,v,2023
+Winner Group D,3rd Group B/E/F,R1,2023
+Runner-up Group A,Runner-up Group C,R2,2023
+Winner Group A,3rd Group C/D/E,R3,2023
+Runner-up Group B,Runner-up Group F,R4,2023
+Winner Group B,3rd Group A/C/D,R5,2023
+Winner Group C,3rd Group A/B/F,R6,2023
+Winner Group E,Runner-up Group D,R7,2023
+Winner Group F,Runner-up Group E,R8,2023
+Winner R4,Winner R3,QF2,2023
+Winner R2,Winner R1,QF1,2023
+Winner R7,Winner R6,QF3,2023
+Winner R5,Winner R8,QF4,2023
+Winner QF1,Winner QF4,SF1,2023
+Winner QF3,Winner QF2,SF2,2023
+Loser SF1,Loser SF2,v,2023
+Winner SF1,Winner SF2,v,2023
