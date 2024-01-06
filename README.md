@@ -44,8 +44,8 @@ This repository contains two Jupyter Notebook files that shows the steps and cod
 
 This project demonstrates how to use Python and Jupyter Notebook to scrape, clean, analyze, visualize, and predict data for the AFCON 2023. The project also provides some insights and findings about the tournament, such as:
 
-- The most successful team in AFCON history is Egypt, with seven titles, followed by Cameroon, with five titles, and Ghana, with four titles1
-- The highest-ranked team in the tournament is Senegal, ranked 20th in the world, followed by Tunisia, ranked 25th, and Algeria, ranked 30th2
+- The most successful team in AFCON history is Egypt, with seven titles, followed by Cameroon, with five titles, and Ghana, with four titles
+- The highest-ranked team in the tournament is Senegal, ranked 20th in the world, followed by Tunisia, ranked 25th, and Algeria, ranked 30th
 - The most likely outcome of the group stage is that Senegal, Tunisia, Algeria, and Cameroon will top their respective groups, while Ivory Coast, Morocco, Nigeria, and Ghana will finish second
 - The most likely winner of the tournament is Egypt based on historical performance and average points in previous fixtures.
 
