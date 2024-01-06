@@ -13,12 +13,13 @@ The aim of this project is to collect and analyze data related to the AFCON 2023
 - Data scraping: The project uses the requests and BeautifulSoup libraries to scrape historical, fixture, and groups data from Wikipedia. The data is then stored in CSV files for further processing, while the groups are dumped as binary (with pickle).
 - Data cleaning: The project uses the pandas library to clean and manipulate the data, such as removing duplicates, handling missing values, and merging data frames.
 - Data prediction: The project uses the Poisson distribution to model the number of goals scored by each team in a match, and then calculates the probabilities of different outcomes, such as win, draw, or loss. The project also uses the points system to rank the teams and predict the winner of the tournament.
+- Data visualization: The project visualizes the average predicted points for all teams based on historical data in a bar graph, using plotly express.
 
 ## Installation
 
 The following packages are required to run the code in this repository:
 
-- pandas, beautifulsoup4, requests, time, pickle, scipy, numpy
+- pandas, beautifulsoup4, requests, time, pickle, scipy, numpy, plotly
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies using the following command:
